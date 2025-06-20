@@ -2,4 +2,4 @@ flask
 tensorflow
 gunicorn
 transformers
-tf-keras
+
